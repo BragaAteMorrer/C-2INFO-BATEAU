@@ -1,0 +1,14 @@
+C:\Users\nenea\Desktop\C# bateau\bin\Debug\net8.0\C# bateau.exe
+C:\Users\nenea\Desktop\C# bateau\bin\Debug\net8.0\C# bateau.deps.json
+C:\Users\nenea\Desktop\C# bateau\bin\Debug\net8.0\C# bateau.runtimeconfig.json
+C:\Users\nenea\Desktop\C# bateau\bin\Debug\net8.0\C# bateau.dll
+C:\Users\nenea\Desktop\C# bateau\bin\Debug\net8.0\C# bateau.pdb
+C:\Users\nenea\Desktop\C# bateau\obj\Debug\net8.0\C# bateau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nenea\Desktop\C# bateau\obj\Debug\net8.0\C# bateau.AssemblyInfoInputs.cache
+C:\Users\nenea\Desktop\C# bateau\obj\Debug\net8.0\C# bateau.AssemblyInfo.cs
+C:\Users\nenea\Desktop\C# bateau\obj\Debug\net8.0\C# bateau.csproj.CoreCompileInputs.cache
+C:\Users\nenea\Desktop\C# bateau\obj\Debug\net8.0\C# bateau.dll
+C:\Users\nenea\Desktop\C# bateau\obj\Debug\net8.0\refint\C# bateau.dll
+C:\Users\nenea\Desktop\C# bateau\obj\Debug\net8.0\C# bateau.pdb
+C:\Users\nenea\Desktop\C# bateau\obj\Debug\net8.0\C# bateau.genruntimeconfig.cache
+C:\Users\nenea\Desktop\C# bateau\obj\Debug\net8.0\ref\C# bateau.dll
